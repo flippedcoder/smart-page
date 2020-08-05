@@ -1,0 +1,26 @@
+.home {
+    text-align: center;
+}
+
+.home-header {
+    align-items: center;
+    background-color: #282c34;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.home-link {
+    color: #61dafb;
+}
+
+textarea {
+    font-size: 24px;
+    margin: 24px;
+    padding: 12px;
+    width: 50%;
+}
+  
